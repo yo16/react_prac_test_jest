@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`myButtonのテスト 描画されてすぐはOFFと表示されている 1`] = `
+<div>
+  <button
+    id="myButton_[object Object]"
+  >
+    OFF
+  </button>
+</div>
+`;
+
+exports[`描画されてすぐはOFFと表示されている 1`] = `
+<div>
+  <button
+    id="myButton_[object Object]"
+  >
+    OFF
+  </button>
+</div>
+`;
